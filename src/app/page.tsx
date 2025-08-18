@@ -25,7 +25,7 @@ export default function Home() {
           <p>Questions? Get in touch</p>
           <button 
             onClick={() => {
-              const email = 'hello' + '@' + 'timcampbellworks' + '.com';
+              const email = 'tim' + '@' + 'timcampbellworks' + '.com';
               window.location.href = 'mailto:' + email;
             }}
             className="text-rose-500 dark:text-rose-400 hover:underline transition-colors cursor-pointer bg-transparent border-none p-0 font-inherit"
