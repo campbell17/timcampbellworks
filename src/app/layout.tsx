@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Tim Campbell Works - Coming Soon",
-  description: "Something amazing is coming soon. Stay tuned for updates from Tim Campbell Works.",
+  description: "Online soon. Stay tuned for updates.",
 };
 
 export default function RootLayout({
